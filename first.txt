@@ -1,6 +1,15 @@
 Gitの練習をします。
 基本的なワークフローを学びます。
-・git add
-・git commit
-・git rm
-・git status
+・git add       ステージにファイルを更新
+・git commit    共有リポジトリのファイルを更新
+・git rm        ステージのファイルを削除
+・git status    リポジトリの状況を見る
+・git log       変更履歴を見る
+    --oneline   logを1行で表示
+    -p          変更差分を表示
+    -n x        x個のログを表示
+
+    log中は　ｊでダウン、kでアップ、qで抜ける
+
+
+    
